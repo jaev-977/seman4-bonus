@@ -1,6 +1,8 @@
 # bonus
 
-A new Flutter project.
+Calculadora IMC
+
+John Alejandro Esteban Velandia
 
 ## Getting Started
 
